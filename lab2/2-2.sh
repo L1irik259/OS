@@ -1,0 +1,1 @@
+ps -eo pid,comm= | awk '$2 ~ /^\/sbin\// {print $1}' > answer-2.txt
