@@ -1,0 +1,572 @@
+Top Monitoring Script Started at Fri May  2 06:33:30 PM UTC 2025
+----------------------------------------
+
+Timestamp: Fri May  2 06:33:30 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,   1370.9 free,    646.4 used,     56.1 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.   1321.4 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  230420 226432   3200 R  81.8  11.2   0:01.49 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  224612 220672   3200 R 100.0  11.0   0:01.49 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 5368, Command: mem.bash
+PID: 1488, Command: kworker+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:31 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,   1138.1 free,    878.1 used,     58.4 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.   1089.7 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  343676 339712   3200 R 100.0  16.9   0:02.24 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  337340 333312   3200 R 100.0  16.5   0:02.23 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:32 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    916.7 free,   1099.6 used,     58.4 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.    868.2 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  455084 451072   3200 R 100.0  22.4   0:02.97 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  448088 444160   3200 R 100.0  22.0   0:02.96 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:32 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    711.9 free,   1304.3 used,     58.4 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.    663.5 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  562664 558720   3200 R 100.0  27.7   0:03.68 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  555008 551040   3200 R 100.0  27.3   0:03.68 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 5368, Command: mem.bash
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:33 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    493.9 free,   1522.4 used,     58.4 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.    445.4 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  676844 672896   3200 R 100.0  33.4   0:04.43 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  669056 665088   3200 R  91.7  33.0   0:04.43 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 1488, Command: kworker+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:34 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    278.3 free,   1738.0 used,     58.4 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.    229.9 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  786008 781952   3200 R  90.9  38.8   0:05.15 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  777560 773632   3200 R  90.9  38.4   0:05.15 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:35 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     68.9 free,   1947.5 used,     58.2 buff/cache     
+MiB Swap:   1024.0 total,    977.5 free,     46.5 used.     20.4 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0  894512 889472   3200 R  90.0  44.1   0:05.88 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  885932 879744   3200 R 100.0  43.7   0:05.88 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 5368, Command: mem.bash
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:36 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     64.9 free,   1964.0 used,     33.4 buff/cache     
+MiB Swap:   1024.0 total,    811.0 free,    213.0 used.      3.9 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0 1000640 899968   3200 R  90.0  44.7   0:06.75 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0  970940 871296   3200 R  90.0  43.2   0:06.51 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:36 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     59.8 free,   1908.0 used,     34.3 buff/cache     
+MiB Swap:   1024.0 total,    674.5 free,    349.5 used.     59.8 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0 1078124 820736   3200 R  90.0  40.7   0:07.47 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0 1038392 928128   3200 R  70.0  46.1   0:07.01 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1488, Command: kworker+
+PID: 1, Command: systemd
+
+Timestamp: Fri May  2 06:33:37 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     78.4 free,   1949.9 used,     34.2 buff/cache     
+MiB Swap:   1024.0 total,    485.4 free,    538.6 used.     17.9 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0 1166036 716544   3200 R  72.7  35.6   0:08.10 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0 1140164   1.0g   3200 R  90.9  51.1   0:07.73 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 5368, Command: mem.bash
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:38 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     81.2 free,   1948.3 used,     31.8 buff/cache     
+MiB Swap:   1024.0 total,    303.4 free,    720.6 used.     19.5 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0 1256984 643456   3200 R 100.0  31.9   0:08.80 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0 1235732   1.1g   3200 R  63.6  55.8   0:08.38 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:39 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     73.3 free,   1956.0 used,     32.3 buff/cache     
+MiB Swap:   1024.0 total,    133.8 free,    890.2 used.     11.8 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0 1340408 559872   3200 R  72.7  27.8   0:09.43 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0 1328264   1.2g   3200 R  90.9  60.4   0:09.02 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 5368, Command: mem.bash
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:40 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     57.4 free,   1910.5 used,     20.2 buff/cache     
+MiB Swap:   1024.0 total,      0.0 free,   1024.0 used.     57.4 avail Mem 
+
+Script Process (PID 5368):
+   5368 user      20   0 1419344 634112   1536 R  53.8  31.5   0:10.05 mem.bash
+
+Script Process (PID 5369):
+   5369 user      20   0 1402052   1.1g   1536 R  38.5  58.4   0:09.64 mem2.ba+
+
+Top 5 Processes:
+PID: 5368, Command: mem.bash
+PID: 53, Command: kswapd0
+PID: 5369, Command: mem2.ba+
+PID: 5590, Command: top
+PID: 1, Command: systemd
+
+Timestamp: Fri May  2 06:33:41 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    553.5 free,   1474.7 used,     34.5 buff/cache     
+MiB Swap:   1024.0 total,    734.4 free,    289.6 used.    493.1 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 1523624   1.2g   2304 R 100.0  63.1   0:10.49 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+PID: 4, Command: kworker+
+
+Timestamp: Fri May  2 06:33:42 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    450.4 free,   1577.8 used,     34.5 buff/cache     
+MiB Swap:   1024.0 total,    734.4 free,    289.6 used.    390.1 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 1640576   1.3g   2304 R 100.0  68.9   0:11.23 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+PID: 4, Command: kworker+
+
+Timestamp: Fri May  2 06:33:42 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    325.6 free,   1702.1 used,     35.4 buff/cache     
+MiB Swap:   1024.0 total,    734.4 free,    289.6 used.    265.7 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 1753040   1.4g   2304 R 100.0  74.5   0:11.96 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+PID: 4, Command: kworker+
+
+Timestamp: Fri May  2 06:33:43 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    215.6 free,   1812.1 used,     35.4 buff/cache     
+MiB Swap:   1024.0 total,    734.4 free,    289.6 used.    155.7 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 1863524   1.5g   2304 R 100.0  80.0   0:12.69 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+PID: 4, Command: kworker+
+
+Timestamp: Fri May  2 06:33:44 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,    112.8 free,   1912.8 used,     39.8 buff/cache     
+MiB Swap:   1024.0 total,    734.7 free,    289.3 used.     55.0 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 1976780   1.6g   2304 R 100.0  85.6   0:13.44 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 1488, Command: kworker+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:44 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     65.2 free,   1960.4 used,     39.8 buff/cache     
+MiB Swap:   1024.0 total,    691.3 free,    332.7 used.      7.5 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2074196   1.7g   2304 R  90.9  86.3   0:14.18 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:45 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     84.5 free,   1941.4 used,     38.9 buff/cache     
+MiB Swap:   1024.0 total,    592.2 free,    431.8 used.     26.4 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2159864   1.6g   2304 R  90.9  85.4   0:14.90 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:46 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     68.9 free,   1957.5 used,     37.9 buff/cache     
+MiB Swap:   1024.0 total,    504.3 free,    519.7 used.     10.3 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2263220   1.7g   2304 R  90.9  87.7   0:15.64 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 17, Command: rcu_pre+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:47 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     76.1 free,   1950.7 used,     37.3 buff/cache     
+MiB Swap:   1024.0 total,    416.3 free,    607.7 used.     17.1 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2353772   1.7g   2304 R 100.0  87.7   0:16.37 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:47 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     71.7 free,   1955.3 used,     36.7 buff/cache     
+MiB Swap:   1024.0 total,    330.7 free,    693.3 used.     12.5 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2440232   1.7g   2304 R 100.0  87.5   0:17.10 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:48 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     73.6 free,   1953.4 used,     36.9 buff/cache     
+MiB Swap:   1024.0 total,    246.6 free,    777.4 used.     14.4 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2532500   1.7g   2304 R  90.9  87.6   0:17.82 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:49 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     81.5 free,   1945.3 used,     37.2 buff/cache     
+MiB Swap:   1024.0 total,    145.5 free,    878.5 used.     22.5 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2625560   1.7g   2304 R 100.0  87.5   0:18.56 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+
+Timestamp: Fri May  2 06:33:50 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     74.1 free,   1952.6 used,     37.5 buff/cache     
+MiB Swap:   1024.0 total,     67.1 free,    956.9 used.     15.2 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2711756   1.7g   2304 R 100.0  87.1   0:19.30 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 218, Command: kworker+
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:50 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,     73.6 free,   1958.5 used,     26.7 buff/cache     
+MiB Swap:   1024.0 total,      0.0 free,   1024.0 used.      9.3 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+   5369 user      20   0 2789636   1.7g   1792 R 100.0  88.5   0:19.92 mem2.ba+
+
+Top 5 Processes:
+PID: 5369, Command: mem2.ba+
+PID: 53, Command: kswapd0
+PID: 5844, Command: top
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+
+Timestamp: Fri May  2 06:33:51 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,   1792.9 free,    236.4 used,     32.5 buff/cache     
+MiB Swap:   1024.0 total,    977.6 free,     46.4 used.   1731.5 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+
+
+Top 5 Processes:
+PID: 5863, Command: top
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+PID: 4, Command: kworker+
+
+Timestamp: Fri May  2 06:33:52 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,   1792.7 free,    235.1 used,     35.2 buff/cache     
+MiB Swap:   1024.0 total,    977.6 free,     46.4 used.   1732.7 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+
+
+Top 5 Processes:
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
+PID: 4, Command: kworker+
+PID: 5, Command: kworker+
+
+Timestamp: Fri May  2 06:33:53 PM UTC 2025
+----------------------------------------
+Memory Info:
+MiB Mem :   1967.8 total,   1792.4 free,    235.0 used,     36.0 buff/cache     
+MiB Swap:   1024.0 total,    977.6 free,     46.4 used.   1732.8 avail Mem 
+
+Script Process (PID 5368):
+
+
+Script Process (PID 5369):
+
+
+Top 5 Processes:
+PID: 3863, Command: kworker+
+PID: 5899, Command: top
+PID: 1, Command: systemd
+PID: 2, Command: kthreadd
+PID: 3, Command: pool_wo+
